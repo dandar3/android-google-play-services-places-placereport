@@ -8,6 +8,7 @@ https://maven.google.com/com/google/android/gms/play-services-places-placereport
 - [dandar3/android-google-play-services-basement](https://github.com/dandar3/android-google-play-services-basement/tree/15.0.0)
 
 **References:**
+- https://developers.google.com/places/android-api/report-place
 - https://developers.google.com/android/guides/releases#april_12_2018_-_version_1500
 
 **SVN checkout:**
